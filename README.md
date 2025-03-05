@@ -1,5 +1,5 @@
 # Customer-Segmentation-Visualization-Advanced-Analysis
-Project Overview
+# Project Overview
 This project focuses on analyzing customer churn in a telecommunications company using data visualization and advanced analytics. The goal is to identify at-risk customers and provide actionable insights to reduce churn and improve customer retention.
 
 🛠️ Tools & Technologies
