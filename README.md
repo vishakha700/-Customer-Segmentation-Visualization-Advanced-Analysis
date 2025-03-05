@@ -6,13 +6,13 @@ This project focuses on analyzing customer churn in a telecommunications company
 Python (Pandas, NumPy, Matplotlib, Seaborn)
 
 📌 Key Insights
-1️⃣ Senior citizens and single customers are more likely to churn.
-2️⃣ Fiber optic users experience higher churn than DSL users.
-3️⃣ Month-to-month contracts and electronic check payments correlate with higher churn.
-4️⃣ Low-tenure customers have a higher risk of leaving.
+## 1️⃣ Senior citizens and single customers are more likely to churn.
+## 2️⃣ Fiber optic users experience higher churn than DSL users.
+## 3️⃣ Month-to-month contracts and electronic check payments correlate with higher churn.
+## 4️⃣ Low-tenure customers have a higher risk of leaving.
 
 💡 Recommendations
-✅ Implement loyalty programs and contract incentives for at-risk customers.
-✅ Improve customer service to reduce frustration and enhance support.
-✅ Introduce flexible payment options to encourage stability.
-✅ Use predictive modeling to identify at-risk customers early.
+## ✅ Implement loyalty programs and contract incentives for at-risk customers.
+## ✅ Improve customer service to reduce frustration and enhance support.
+## ✅ Introduce flexible payment options to encourage stability.
+## ✅ Use predictive modeling to identify at-risk customers early.
